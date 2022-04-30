@@ -1,1 +1,2 @@
-print('Hi')
+name = 'Mia'
+print('Hi', name)
