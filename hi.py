@@ -4,3 +4,6 @@ print('Hi hello', name)
 
 def say_welcome(name):
   print('Welcome', name)
+
+def get_thisyear():
+  return 2022
